@@ -7,7 +7,9 @@ package com.f.githubtest;
 public class GitHubTest {
     public static void main(String[] args) {
         System.out.println(1+1);
-        System.out.println("hello,github");
+        System.out.println("hello,no");
+        System.out.println("hello,no");
+        System.out.println("hello,no");
         System.out.println(333);
         System.out.println(444);
     }
